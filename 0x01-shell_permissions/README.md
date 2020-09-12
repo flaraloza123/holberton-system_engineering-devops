@@ -1,0 +1,1 @@
+This directory is for answers to the 0x01 shell permissions for the Holberton School
