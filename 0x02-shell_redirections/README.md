@@ -1,0 +1,1 @@
+file made for the answers to project 0x02 shell redirections
